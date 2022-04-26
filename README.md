@@ -3,7 +3,7 @@ Internet passwords of various facilities/buildings
 
 |Facility/Building|Name|Password|
 |---	|---	|---	|
-|Computer Engineering|CE|Ceit@1380|
+|Computer Engineering|CE|ceit@1380|
 |Polymer Engineering|poly10|politenmer|
 |Farabi|std|64542311|
 |Mining Engineering|Me|456789zxc|
